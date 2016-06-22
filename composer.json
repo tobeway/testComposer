@@ -1,0 +1,32 @@
+{
+
+    "name":"tobeway/testComposer",
+
+    "description":"pracitce",
+
+    "license":"MIT",
+
+    "keywords":["testComposer"],
+
+    "version":"0.0.1",
+
+    "authors":
+	[
+
+	        {
+
+	            "name":"guoyin",
+
+	            "email":"985848496@qq.com"
+
+	        }
+
+	],
+
+    "require":
+    {
+
+        "php": ">=5.4.0"
+    }
+
+}
